@@ -7,7 +7,7 @@ import json
 from random import randint
 
 def def_callback(str):
-    print "\nKRIS LOGIN URL: "+str+"\n"
+    print "\nCBW LOGIN URL: "+str+"\n"
 
 class LINE:
 
@@ -443,5 +443,5 @@ class LINE:
       print("╔════════════════════════════════════════════════════\n╠❂➣❂➣ Mid Kamu -> " + prof.mid)
       print("╠❂➣❂➣ Nama Akun -> " + prof.displayName)
       print("╠❂➣❂➣ AuthToken Kamu -> " + self.authToken)
-      print("╠❂➣❂➣ Cert Kamu -> " + self.cert if self.cert is not None else "╠════════════════════════════════════════════════════\n╠❂➣❂➣ Cyber-Army_Bots\n╠❂➣❂➣ line://ti/p/~krissthea\n╚════════════════════════════════════════════════════")
-      print("═══════════[Team-CAB]═══════════\n═══════════[C-A_Bots]═══════════\n═════════════[Kris]═════════════")
+      print("╠❂➣❂➣ Cert Kamu -> " + self.cert if self.cert is not None else "╠════════════════════════════════════════════════════\n╠❂➣❂➣ w-N_Bots\n╠❂➣❂➣\n╚════════════════════════════════════════════════════")
+      print("═══════════[CBW]═══════════\n═══════════[w-N_Bots]═══════════\n═════════════[CBW]═════════════")
